@@ -1,4 +1,4 @@
-# Proyecto: YOLO V3 para Programadores Nivel: Intermedio
+# Proyecto: YOLO V3 para Programadores Nivel Intermedio
 ## Autores
 
 - **Jacob Tinoco** - *Repositorio de educación* - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
