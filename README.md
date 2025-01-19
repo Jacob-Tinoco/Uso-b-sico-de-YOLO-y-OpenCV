@@ -20,7 +20,7 @@ Este proyecto requiere las siguientes herramientas y archivos para funcionar cor
 - **YOLOV3**: Descarga el modelo YOLO V3 para la detección de objetos.
 - **`yolov3.cfg`**: Este archivo de configuración puede encontrarse en las páginas de YOLO si no tienes el archivo proporcionado.
 - **`yolov3.weights`**: Los pesos del modelo YOLO V3, también disponibles en las páginas de YOLO.
-- **Librería `yt_dlp` de Python**: Para descargar videos de YouTube. Instálala usando (esto con fines educacionales, no se apoya la pirateria y distribución indevida de contenido):
+- **Librería `yt_dlp` de Python**: Para descargar videos de YouTube. Instálala usando esto con fines educacionales, no se apoya la pirateria y distribución indevida de contenido:
     ```bash
     pip install yt-dlp
     ```
