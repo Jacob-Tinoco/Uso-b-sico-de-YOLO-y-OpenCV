@@ -19,4 +19,6 @@ Este repositorio contiene un ejemplo básico de detección de personas utilizand
 
 Posteriormente actualizaré este archivo README para proporcionar más detalles sobre el proyecto.
 
+Dejo adjunto un video demostrativo
+
 **Fecha de Actualización:** 19/01/25
