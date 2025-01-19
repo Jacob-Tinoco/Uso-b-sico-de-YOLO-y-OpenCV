@@ -19,6 +19,6 @@ Este repositorio contiene un ejemplo básico de detección de personas utilizand
 
 Posteriormente actualizaré este archivo README para proporcionar más detalles sobre el proyecto.
 
-Dejo adjunto un video demostrativo
+Dejo adjunto un video demostrativo sobre mis primeros intentos usand YOLO
 
 **Fecha de Actualización:** 19/01/25
