@@ -10,7 +10,10 @@
 Este repositorio ofrece una implementación de detección de objetos utilizando el modelo YOLO V3, junto con otras herramientas para obtener videos que pueden servir como muestras de entrada para el procesamiento.
 
 ## Requerimientos del Repositorio
-
+- Puedes ejecutar en la terminal de tu proyecto el siguinet comando para instalar los rquerimientos necesarios básicos:
+    ```bash
+    pip install -r requirements.txt
+    ``
 Este proyecto requiere las siguientes herramientas y archivos para funcionar correctamente:
 
 - **Python 3.12.8 o anterior**: Asegúrate de tener la versión correcta de Python instalada en tu sistema.
@@ -33,7 +36,7 @@ Este proyecto requiere las siguientes herramientas y archivos para funcionar cor
 - **OS**: Módulo de Python para interactuar con el sistema operativo.
 - **Librería `datetime`**: Para trabajar con fechas y horas.
 
-## Lista de Herramientas Utilizadas
+## Lista de resumen sobre las librerias y herramientas utilizadas
 - **YOLO V3**: Para la detección de personas en videos.
 - **yt_dlp**: Para descargar videos desde YouTube.
 - **NumPy**: Para operaciones numéricas y de matrices.
@@ -42,7 +45,7 @@ Este proyecto requiere las siguientes herramientas y archivos para funcionar cor
 ## Actualizaciones
 Posteriormente actualizaré este archivo README para proporcionar más detalles sobre el proyecto.
 
-Dejo adjunto un video demostrativo sobre mis primeros intentos usando YOLO.
+Dejo adjunto un video demostrativo sobre mis intentos usando YOLO con un fragmento de la película "Matrix".
 
 **Fecha de última actualización:** 19/01/25
 
